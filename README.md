@@ -1,4 +1,4 @@
-# estilos
+# Styles
 
 A new Flutter project.
 
